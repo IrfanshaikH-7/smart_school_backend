@@ -1,0 +1,60 @@
+2025-07-07 18:57:16 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:11:39 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:46:19 [31merror[39m: [31mParent role not found. Please ensure roles are seeded.[39m
+2025-07-07 19:46:30 [31merror[39m: [31mInvalid credentials[39m
+2025-07-07 19:47:37 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:50:55 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 20:32:50 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.school.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:34:25[39m
+
+[31m  31 [39m
+[31m  32 // Seed Schools[39m
+[31m  33 for (const school of schoolsData) {[39m
+[31m→ 34   await prisma.school.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid character: expected an optional prefix of `urn:uuid:` followed by [0-9a-fA-F-], found `s` at 1[39m
+2025-07-07 20:37:24 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.subject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:98:26[39m
+
+[31m  95 [39m
+[31m  96 // Seed Subjects[39m
+[31m  97 for (const subject of subjectsData) {[39m
+[31m→ 98   await prisma.subject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:39:01 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.subject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:98:26[39m
+
+[31m  95 [39m
+[31m  96 // Seed Subjects[39m
+[31m  97 for (const subject of subjectsData) {[39m
+[31m→ 98   await prisma.subject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:40:42 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.student.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:108:26[39m
+
+[31m  105 [39m
+[31m  106 // Seed Students[39m
+[31m  107 for (const student of studentsData) {[39m
+[31m→ 108   await prisma.student.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:42:13 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.student.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:108:26[39m
+
+[31m  105 [39m
+[31m  106 // Seed Students[39m
+[31m  107 for (const student of studentsData) {[39m
+[31m→ 108   await prisma.student.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:44:40 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.teacherAssignedToSubject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:128:43[39m
+
+[31m  125 [39m
+[31m  126 // Seed TeacherAssignedToSubjects[39m
+[31m  127 for (const tas of teacherAssignedToSubjectsData) {[39m
+[31m→ 128   await prisma.teacherAssignedToSubject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 10[39m

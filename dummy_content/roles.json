@@ -1,0 +1,6 @@
+[
+  { "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1", "name": "admin" },
+  { "id": "c2d3e4f5-a6b7-8901-2345-67890abcdef2", "name": "teacher" },
+  { "id": "d2e3f4a5-b6c7-8901-2345-67890abcdef3", "name": "parent" },
+  { "id": "e2f3a4b5-c6d7-8901-2345-67890abcdef4", "name": "student" }
+]

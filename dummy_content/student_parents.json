@@ -1,0 +1,6 @@
+[
+  { "studentId": "f3a4b5c6-d7e8-9012-3456-7890abcdef15", "parentUserId": "f1a2b3c4-d5e6-7890-1234-567890abcdef" },
+  { "studentId": "a4b5c6d7-e8f9-0123-4567-890abcdef160", "parentUserId": "f1a2b3c4-d5e6-7890-1234-567890abcdef" },
+  { "studentId": "b4c5d6e7-f8a9-0123-4567-890abcdef170", "parentUserId": "a2b3c4d5-e6f7-8901-2345-67890abcdef0" },
+  { "studentId": "c4d5e6f7-a8b9-0123-4567-890abcdef180", "parentUserId": "a2b3c4d5-e6f7-8901-2345-67890abcdef0" }
+]

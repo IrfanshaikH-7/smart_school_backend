@@ -1,0 +1,5 @@
+[
+  { "id": "b5c6d7e8-f9a0-1234-5678-90abcdef2300", "teacherId": "d1e2f3a4-b5c6-7890-1234-567890abcdef", "subjectId": "e4f5a6b7-c8d9-0123-4567-890abcdef200", "classId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12", "academicYear": "2024-2025", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" },
+  { "id": "c5d6e7f8-a9b0-1234-5678-90abcdef2400", "teacherId": "d1e2f3a4-b5c6-7890-1234-567890abcdef", "subjectId": "f4a5b6c7-d8e9-0123-4567-890abcdef210", "classId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12", "academicYear": "2024-2025", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" },
+  { "id": "d5e6f7a8-b9c0-1234-5678-90abcdef2500", "teacherId": "e1f2a3b4-c5d6-7890-1234-567890abcdef", "subjectId": "a5b6c7d8-e9f0-1234-5678-90abcdef2200", "classId": "d3e4f5a6-b7c8-9012-3456-7890abcdef13", "academicYear": "2024-2025", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" }
+]

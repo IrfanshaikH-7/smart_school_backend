@@ -1,0 +1,56 @@
+[
+  {
+    "id": "b1c2d3e4-f5a6-7890-1234-567890abcdef",
+    "name": "Alice Admin",
+    "email": "alice.admin@example.com",
+    "password": "hashedpassword1",
+    "phone": "111-222-3333",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "admin"
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-1234-567890abcdef",
+    "name": "Bob Admin",
+    "email": "bob.admin@example.com",
+    "password": "hashedpassword2",
+    "phone": "444-555-6666",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "admin"
+  },
+  {
+    "id": "d1e2f3a4-b5c6-7890-1234-567890abcdef",
+    "name": "Charlie Teacher",
+    "email": "charlie.teacher@example.com",
+    "password": "hashedpassword3",
+    "phone": "777-888-9999",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "teacher"
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-1234-567890abcdef",
+    "name": "Diana Teacher",
+    "email": "diana.teacher@example.com",
+    "password": "hashedpassword4",
+    "phone": "123-456-7890",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "teacher"
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-1234-567890abcdef",
+    "name": "Eve Parent",
+    "email": "eve.parent@example.com",
+    "password": "hashedpassword5",
+    "phone": "098-765-4321",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "parent"
+  },
+  {
+    "id": "a2b3c4d5-e6f7-8901-2345-67890abcdef0",
+    "name": "Frank Parent",
+    "email": "frank.parent@example.com",
+    "password": "hashedpassword6",
+    "phone": "112-233-4455",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "role": "parent"
+  }
+]

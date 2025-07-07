@@ -1,0 +1,5 @@
+[
+  { "id": "e4f5a6b7-c8d9-0123-4567-890abcdef200", "name": "Mathematics", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" },
+  { "id": "f4a5b6c7-d8e9-0123-4567-890abcdef210", "name": "Science", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" },
+  { "id": "a5b6c7d8-e9f0-1234-5678-90abcdef2200", "name": "English", "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef" }
+]

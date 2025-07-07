@@ -1,0 +1,303 @@
+2025-07-07 18:56:06 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 18:57:07 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 18:57:16 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 18:58:26 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 18:59:32 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:10:30 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:11:39 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:20:05 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:20:05 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:40:21 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:44:22 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:46:19 [31merror[39m: [31mParent role not found. Please ensure roles are seeded.[39m
+2025-07-07 19:46:30 [31merror[39m: [31mInvalid credentials[39m
+2025-07-07 19:47:24 [32minfo[39m: [32mSeeding database...[39m
+2025-07-07 19:47:25 [32minfo[39m: [32mCreated/found school: Default School (ID: 16794986-a36b-455e-9799-5e4e0e9a5600)[39m
+2025-07-07 19:47:26 [32minfo[39m: [32mCreated/found role: admin (ID: 09a017f4-de09-45c3-86fd-18e205a2a061)[39m
+2025-07-07 19:47:26 [32minfo[39m: [32mCreated/found role: teacher (ID: ecb81408-973e-4ca9-ad48-9eccb64620bc)[39m
+2025-07-07 19:47:26 [32minfo[39m: [32mCreated/found role: parent (ID: 1da1bf8c-2ef6-43e0-b747-e539a3573a8d)[39m
+2025-07-07 19:47:26 [32minfo[39m: [32mDatabase seeding completed.[39m
+2025-07-07 19:47:37 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:48:34 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:48:46 [32minfo[39m: [32mSeeding database...[39m
+2025-07-07 19:48:47 [32minfo[39m: [32mCreated/found school: Default School (ID: 16794986-a36b-455e-9799-5e4e0e9a5600)[39m
+2025-07-07 19:48:47 [32minfo[39m: [32mCreated/found role: admin (ID: 09a017f4-de09-45c3-86fd-18e205a2a061)[39m
+2025-07-07 19:48:48 [32minfo[39m: [32mCreated/found role: teacher (ID: ecb81408-973e-4ca9-ad48-9eccb64620bc)[39m
+2025-07-07 19:48:48 [32minfo[39m: [32mCreated/found role: parent (ID: 1da1bf8c-2ef6-43e0-b747-e539a3573a8d)[39m
+2025-07-07 19:48:48 [32minfo[39m: [32mDatabase seeding completed.[39m
+2025-07-07 19:49:30 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:49:53 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:50:51 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:50:55 [31merror[39m: [31mSomething went wrong[39m
+2025-07-07 19:51:17 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:52:00 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 19:52:29 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:05 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:14 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:22 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:33 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:41 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:53 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:22:58 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:23:03 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:23:11 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:23:22 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:23:45 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:23:58 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:25:20 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-07 20:32:47 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:32:50 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.school.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:34:25[39m
+
+[31m  31 [39m
+[31m  32 // Seed Schools[39m
+[31m  33 for (const school of schoolsData) {[39m
+[31m→ 34   await prisma.school.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid character: expected an optional prefix of `urn:uuid:` followed by [0-9a-fA-F-], found `s` at 1[39m
+2025-07-07 20:37:14 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:37:18 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:37:18 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:37:18 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:37:19 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:37:19 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:37:19 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:37:20 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:37:20 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:37:20 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:37:20 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:37:21 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:37:21 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:37:21 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:37:22 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:37:22 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:37:22 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:37:22 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:37:23 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:37:23 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:37:23 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:37:24 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.subject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:98:26[39m
+
+[31m  95 [39m
+[31m  96 // Seed Subjects[39m
+[31m  97 for (const subject of subjectsData) {[39m
+[31m→ 98   await prisma.subject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:38:51 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:38:54 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:38:55 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:38:55 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:38:55 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:38:56 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:38:56 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:38:56 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:38:57 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:38:57 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:38:57 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:38:57 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:38:58 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:38:58 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:38:58 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:38:59 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:38:59 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:38:59 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:39:00 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:39:00 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:39:00 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:39:01 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:39:01 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:39:01 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.subject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:98:26[39m
+
+[31m  95 [39m
+[31m  96 // Seed Subjects[39m
+[31m  97 for (const subject of subjectsData) {[39m
+[31m→ 98   await prisma.subject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:40:24 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:40:33 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:40:34 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:40:34 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:40:34 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:40:35 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:40:36 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:40:36 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:40:36 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:40:37 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:40:37 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:40:37 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:40:38 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:40:38 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:40:38 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:40:39 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:40:39 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:40:39 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:40:40 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:40:40 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:40:40 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:40:41 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:40:41 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:40:42 [32minfo[39m: [32mSeeded Subject: English[39m
+2025-07-07 20:40:42 [32minfo[39m: [32mSeeded Student: Grace Student[39m
+2025-07-07 20:40:42 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.student.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:108:26[39m
+
+[31m  105 [39m
+[31m  106 // Seed Students[39m
+[31m  107 for (const student of studentsData) {[39m
+[31m→ 108   await prisma.student.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:42:02 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:42:06 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:42:07 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:42:07 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:42:07 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:42:08 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:42:08 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:42:08 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:42:08 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:42:09 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:42:09 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:42:09 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:42:09 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:42:10 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:42:10 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:42:10 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:42:10 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:42:11 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:42:11 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:42:11 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:42:12 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:42:12 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:42:12 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:42:13 [32minfo[39m: [32mSeeded Subject: English[39m
+2025-07-07 20:42:13 [32minfo[39m: [32mSeeded Student: Grace Student[39m
+2025-07-07 20:42:13 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.student.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:108:26[39m
+
+[31m  105 [39m
+[31m  106 // Seed Students[39m
+[31m  107 for (const student of studentsData) {[39m
+[31m→ 108   await prisma.student.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 11[39m
+2025-07-07 20:44:23 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:44:28 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:44:29 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:44:29 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:44:30 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:44:30 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:44:30 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:44:31 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:44:31 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:44:31 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:44:32 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:44:32 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:44:32 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:44:33 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:44:33 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:44:34 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:44:34 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:44:34 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:44:35 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:44:35 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:44:35 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:44:36 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:44:36 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:44:37 [32minfo[39m: [32mSeeded Subject: English[39m
+2025-07-07 20:44:37 [32minfo[39m: [32mSeeded Student: Grace Student[39m
+2025-07-07 20:44:38 [32minfo[39m: [32mSeeded Student: Henry Student[39m
+2025-07-07 20:44:38 [32minfo[39m: [32mSeeded Student: Ivy Student[39m
+2025-07-07 20:44:38 [32minfo[39m: [32mSeeded Student: Jack Student[39m
+2025-07-07 20:44:39 [32minfo[39m: [32mSeeded Student: Karen Student[39m
+2025-07-07 20:44:39 [32minfo[39m: [32mSeeded StudentParent: Student f3a4b5c6-d7e8-9012-3456-7890abcdef15 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:44:39 [32minfo[39m: [32mSeeded StudentParent: Student a4b5c6d7-e8f9-0123-4567-890abcdef160 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:44:40 [32minfo[39m: [32mSeeded StudentParent: Student b4c5d6e7-f8a9-0123-4567-890abcdef170 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:44:40 [32minfo[39m: [32mSeeded StudentParent: Student c4d5e6f7-a8b9-0123-4567-890abcdef180 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:44:40 [31merror[39m: [31mDatabase seeding failed: [39m
+[31mInvalid `prisma.teacherAssignedToSubject.upsert()` invocation in[39m
+[31mD:\smart_school\smart_school_backend\src\prisma\seed.ts:128:43[39m
+
+[31m  125 [39m
+[31m  126 // Seed TeacherAssignedToSubjects[39m
+[31m  127 for (const tas of teacherAssignedToSubjectsData) {[39m
+[31m→ 128   await prisma.teacherAssignedToSubject.upsert([39m
+[31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 10[39m
+2025-07-07 20:45:31 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:45:36 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:45:37 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:45:37 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:45:37 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:45:38 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:45:38 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:45:38 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:45:39 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:45:39 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:45:39 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:45:40 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:45:40 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:45:40 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:45:40 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:45:41 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:45:41 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:45:41 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:45:42 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:45:42 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:45:42 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:45:43 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:45:43 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:45:43 [32minfo[39m: [32mSeeded Subject: English[39m
+2025-07-07 20:45:44 [32minfo[39m: [32mSeeded Student: Grace Student[39m
+2025-07-07 20:45:44 [32minfo[39m: [32mSeeded Student: Henry Student[39m
+2025-07-07 20:45:44 [32minfo[39m: [32mSeeded Student: Ivy Student[39m
+2025-07-07 20:45:44 [32minfo[39m: [32mSeeded Student: Jack Student[39m
+2025-07-07 20:45:45 [32minfo[39m: [32mSeeded Student: Karen Student[39m
+2025-07-07 20:45:45 [32minfo[39m: [32mSeeded StudentParent: Student f3a4b5c6-d7e8-9012-3456-7890abcdef15 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:45:45 [32minfo[39m: [32mSeeded StudentParent: Student a4b5c6d7-e8f9-0123-4567-890abcdef160 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:45:46 [32minfo[39m: [32mSeeded StudentParent: Student b4c5d6e7-f8a9-0123-4567-890abcdef170 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:45:46 [32minfo[39m: [32mSeeded StudentParent: Student c4d5e6f7-a8b9-0123-4567-890abcdef180 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:45:46 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher d1e2f3a4-b5c6-7890-1234-567890abcdef - Subject e4f5a6b7-c8d9-0123-4567-890abcdef200 - Class c3d4e5f6-a7b8-9012-3456-7890abcdef12[39m
+2025-07-07 20:45:46 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher d1e2f3a4-b5c6-7890-1234-567890abcdef - Subject f4a5b6c7-d8e9-0123-4567-890abcdef210 - Class c3d4e5f6-a7b8-9012-3456-7890abcdef12[39m
+2025-07-07 20:45:47 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher e1f2a3b4-c5d6-7890-1234-567890abcdef - Subject a5b6c7d8-e9f0-1234-5678-90abcdef2200 - Class d3e4f5a6-b7c8-9012-3456-7890abcdef13[39m
+2025-07-07 20:45:47 [32minfo[39m: [32mDatabase seeding completed.[39m
+2025-07-07 20:45:56 [32minfo[39m: [32mStarting database seeding...[39m
+2025-07-07 20:45:57 [32minfo[39m: [32mSeeded School: Springfield Elementary[39m
+2025-07-07 20:45:58 [32minfo[39m: [32mSeeded Role: admin[39m
+2025-07-07 20:45:58 [32minfo[39m: [32mSeeded Role: teacher[39m
+2025-07-07 20:45:58 [32minfo[39m: [32mSeeded Role: parent[39m
+2025-07-07 20:45:58 [32minfo[39m: [32mSeeded Role: student[39m
+2025-07-07 20:45:59 [32minfo[39m: [32mSeeded User: alice.admin@example.com[39m
+2025-07-07 20:45:59 [32minfo[39m: [32mSeeded User: bob.admin@example.com[39m
+2025-07-07 20:45:59 [32minfo[39m: [32mSeeded User: charlie.teacher@example.com[39m
+2025-07-07 20:45:59 [32minfo[39m: [32mSeeded User: diana.teacher@example.com[39m
+2025-07-07 20:46:00 [32minfo[39m: [32mSeeded User: eve.parent@example.com[39m
+2025-07-07 20:46:00 [32minfo[39m: [32mSeeded User: frank.parent@example.com[39m
+2025-07-07 20:46:00 [32minfo[39m: [32mSeeded UserRole: User b1c2d3e4-f5a6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:46:01 [32minfo[39m: [32mSeeded UserRole: User c1d2e3f4-a5b6-7890-1234-567890abcdef - Role b2c3d4e5-f6a7-8901-2345-67890abcdef1[39m
+2025-07-07 20:46:01 [32minfo[39m: [32mSeeded UserRole: User d1e2f3a4-b5c6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:46:01 [32minfo[39m: [32mSeeded UserRole: User e1f2a3b4-c5d6-7890-1234-567890abcdef - Role c2d3e4f5-a6b7-8901-2345-67890abcdef2[39m
+2025-07-07 20:46:01 [32minfo[39m: [32mSeeded UserRole: User f1a2b3c4-d5e6-7890-1234-567890abcdef - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:46:02 [32minfo[39m: [32mSeeded UserRole: User a2b3c4d5-e6f7-8901-2345-67890abcdef0 - Role d2e3f4a5-b6c7-8901-2345-67890abcdef3[39m
+2025-07-07 20:46:02 [32minfo[39m: [32mSeeded Class: Grade 10 A[39m
+2025-07-07 20:46:02 [32minfo[39m: [32mSeeded Class: Grade 11 B[39m
+2025-07-07 20:46:03 [32minfo[39m: [32mSeeded Class: Grade 9 C[39m
+2025-07-07 20:46:03 [32minfo[39m: [32mSeeded Subject: Mathematics[39m
+2025-07-07 20:46:03 [32minfo[39m: [32mSeeded Subject: Science[39m
+2025-07-07 20:46:04 [32minfo[39m: [32mSeeded Subject: English[39m
+2025-07-07 20:46:04 [32minfo[39m: [32mSeeded Student: Grace Student[39m
+2025-07-07 20:46:04 [32minfo[39m: [32mSeeded Student: Henry Student[39m
+2025-07-07 20:46:05 [32minfo[39m: [32mSeeded Student: Ivy Student[39m
+2025-07-07 20:46:05 [32minfo[39m: [32mSeeded Student: Jack Student[39m
+2025-07-07 20:46:05 [32minfo[39m: [32mSeeded Student: Karen Student[39m
+2025-07-07 20:46:06 [32minfo[39m: [32mSeeded StudentParent: Student f3a4b5c6-d7e8-9012-3456-7890abcdef15 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:46:06 [32minfo[39m: [32mSeeded StudentParent: Student a4b5c6d7-e8f9-0123-4567-890abcdef160 - Parent f1a2b3c4-d5e6-7890-1234-567890abcdef[39m
+2025-07-07 20:46:06 [32minfo[39m: [32mSeeded StudentParent: Student b4c5d6e7-f8a9-0123-4567-890abcdef170 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:46:06 [32minfo[39m: [32mSeeded StudentParent: Student c4d5e6f7-a8b9-0123-4567-890abcdef180 - Parent a2b3c4d5-e6f7-8901-2345-67890abcdef0[39m
+2025-07-07 20:46:07 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher d1e2f3a4-b5c6-7890-1234-567890abcdef - Subject e4f5a6b7-c8d9-0123-4567-890abcdef200 - Class c3d4e5f6-a7b8-9012-3456-7890abcdef12[39m
+2025-07-07 20:46:07 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher d1e2f3a4-b5c6-7890-1234-567890abcdef - Subject f4a5b6c7-d8e9-0123-4567-890abcdef210 - Class c3d4e5f6-a7b8-9012-3456-7890abcdef12[39m
+2025-07-07 20:46:07 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher e1f2a3b4-c5d6-7890-1234-567890abcdef - Subject a5b6c7d8-e9f0-1234-5678-90abcdef2200 - Class d3e4f5a6-b7c8-9012-3456-7890abcdef13[39m
+2025-07-07 20:46:07 [32minfo[39m: [32mDatabase seeding completed.[39m

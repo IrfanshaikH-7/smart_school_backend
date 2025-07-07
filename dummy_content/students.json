@@ -1,0 +1,42 @@
+[
+  {
+    "id": "f3a4b5c6-d7e8-9012-3456-7890abcdef15",
+    "name": "Grace Student",
+    "rollNumber": "S001",
+    "classId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "profileImageUrl": "https://example.com/grace.png"
+  },
+  {
+    "id": "a4b5c6d7-e8f9-0123-4567-890abcdef160",
+    "name": "Henry Student",
+    "rollNumber": "S002",
+    "classId": "c3d4e5f6-a7b8-9012-3456-7890abcdef12",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "profileImageUrl": "https://example.com/henry.png"
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-4567-890abcdef170",
+    "name": "Ivy Student",
+    "rollNumber": "S003",
+    "classId": "d3e4f5a6-b7c8-9012-3456-7890abcdef13",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "profileImageUrl": "https://example.com/ivy.png"
+  },
+  {
+    "id": "c4d5e6f7-a8b9-0123-4567-890abcdef180",
+    "name": "Jack Student",
+    "rollNumber": "S004",
+    "classId": "d3e4f5a6-b7c8-9012-3456-7890abcdef13",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "profileImageUrl": "https://example.com/jack.png"
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-4567-890abcdef190",
+    "name": "Karen Student",
+    "rollNumber": "S005",
+    "classId": "e3f4a5b6-c7d8-9012-3456-7890abcdef14",
+    "schoolId": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "profileImageUrl": "https://example.com/karen.png"
+  }
+]
