@@ -29,9 +29,9 @@ export const registerUser = async (
   }
 
   // Find the default school
-  const defaultSchool = await prisma.school.findUnique({ where: { name: 'Default School' } });
+  const defaultSchool = await prisma.school.findUnique({ where: { name: 'Springfield Elementary' } });
   if (!defaultSchool) {
-    throw new ApiError(500, 'Default School not found. Please ensure schools are seeded.');
+    throw new ApiError(500, 'Springfield Elementary not found. Please ensure schools are seeded.');
   }
 
   const newUser = await prisma.user.create({

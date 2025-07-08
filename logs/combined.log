@@ -301,3 +301,9 @@
 2025-07-07 20:46:07 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher d1e2f3a4-b5c6-7890-1234-567890abcdef - Subject f4a5b6c7-d8e9-0123-4567-890abcdef210 - Class c3d4e5f6-a7b8-9012-3456-7890abcdef12[39m
 2025-07-07 20:46:07 [32minfo[39m: [32mSeeded TeacherAssignedToSubject: Teacher e1f2a3b4-c5d6-7890-1234-567890abcdef - Subject a5b6c7d8-e9f0-1234-5678-90abcdef2200 - Class d3e4f5a6-b7c8-9012-3456-7890abcdef13[39m
 2025-07-07 20:46:07 [32minfo[39m: [32mDatabase seeding completed.[39m
+2025-07-08 14:47:34 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-08 14:49:21 [31merror[39m: [31mDefault School not found. Please ensure schools are seeded.[39m
+2025-07-08 14:50:42 [32minfo[39m: [32mServer running on port 3000 in development mode[39m
+2025-07-08 14:53:28 [34minfo[39m: [34mServer running on port 3000 in development mode[39m
+2025-07-08 14:54:24 [36minfo[39m: [36mServer running on port 3000 in development mode[39m
+2025-07-08 14:54:39 [34minfo[39m: [34mServer running on port 3000 in development mode[39m

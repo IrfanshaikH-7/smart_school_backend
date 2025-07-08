@@ -58,3 +58,4 @@
 [31m  127 for (const tas of teacherAssignedToSubjectsData) {[39m
 [31m→ 128   await prisma.teacherAssignedToSubject.upsert([39m
 [31mInconsistent column data: Error creating UUID, invalid group length in group 4: expected 12, found 10[39m
+2025-07-08 14:49:21 [31merror[39m: [31mDefault School not found. Please ensure schools are seeded.[39m
